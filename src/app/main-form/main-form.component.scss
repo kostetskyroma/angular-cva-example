@@ -1,0 +1,16 @@
+:host {
+    display: flex;
+    border: 1px solid red;
+
+    .container {
+        min-width: 50%;
+    }
+
+    button {
+        margin-top: 2rem;
+    }
+
+    .row {
+        margin: 1rem;
+    }
+}
